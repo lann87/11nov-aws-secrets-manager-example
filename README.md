@@ -1,0 +1,1 @@
+# nov11-aws-secrets-manager-example
