@@ -5,4 +5,4 @@
 ## Individual Assignment - Github Actions Workflows Secrets retrieval
 
 **Date**: 11 Nov  
-**Author**: Alan Peh
+**Author**: Alan Peh  
